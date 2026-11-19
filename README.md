@@ -2,7 +2,12 @@
 
 # OpenWrt on Check Point L-50
 
-![OpenWrt: 25.12.5 (kirkwood)](https://img.shields.io/badge/OpenWrt-25.12.5%20(kirkwood)-00B5E2?logo=openwrt&logoColor=white) ![SoC: Marvell 88F6281](https://img.shields.io/badge/SoC-Marvell%2088F6281-informational) ![boot: UART kwboot](https://img.shields.io/badge/boot-UART%20kwboot-orange) ![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenWrt-25.12.5%20%28kirkwood%29-00B5E2?logo=openwrt&logoColor=white" alt="OpenWrt: 25.12.5 (kirkwood)" />
+  <img src="https://img.shields.io/badge/SoC-Marvell%2088F6281-informational" alt="SoC: Marvell 88F6281" />
+  <img src="https://img.shields.io/badge/boot-UART%20kwboot-orange" alt="boot: UART kwboot" />
+  <img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="license: CC BY 4.0" />
+</p>
 
 Installation guide for OpenWrt 25.12.5 on the Check Point L-50 (600 Appliance, Marvell
 Kirkwood 88F6281). The board is supported by official OpenWrt, but there is almost no
